@@ -1,7 +1,7 @@
+This is a template then I change the content.
+
 ## About
-
-*This is the template where I get.*  
-
+He is the author of template.
 Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
 - <https://davidmiller.io>
