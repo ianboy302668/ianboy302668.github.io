@@ -1,6 +1,7 @@
 ## About
 
-*This is the template where I get.*
+*This is the template where I get.*  
+
 Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
 - <https://davidmiller.io>
